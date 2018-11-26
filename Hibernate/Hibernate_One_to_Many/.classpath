@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Full Stack Training/JARFile/Hibernate Jar Files/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/Full Stack Training/JARFile/Hibernate Jar Files/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Full Stack Training/JARFile/Hibernate Jar Files/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Full Stack Training/JARFile/Hibernate Jar Files/commons.collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Full Stack Training/JARFile/Hibernate Jar Files/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Full Stack Training/JARFile/Hibernate Jar Files/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Full Stack Training/JARFile/Hibernate Jar Files/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/Full Stack Training/JARFile/Hibernate Jar Files/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Full Stack Training/JARFile/Hibernate Jar Files/hibernate-core-5.0.6.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Full Stack Training/JARFile/Hibernate Jar Files/hibernate-jpa-2.1-api-1.0.0.final.jar"/>
+	<classpathentry kind="lib" path="D:/Full Stack Training/JARFile/Hibernate Jar Files/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="D:/Full Stack Training/JARFile/Hibernate Jar Files/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Full Stack Training/JARFile/Hibernate Jar Files/jta.jar"/>
+	<classpathentry kind="lib" path="D:/Full Stack Training/JARFile/Hibernate Jar Files/log4j.jar"/>
+	<classpathentry kind="lib" path="D:/Full Stack Training/JARFile/Hibernate Jar Files/lucene-core-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Full Stack Training/JARFile/Hibernate Jar Files/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="D:/Full Stack Training/JARFile/Hibernate Jar Files/xml-apis-1.3.03.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
