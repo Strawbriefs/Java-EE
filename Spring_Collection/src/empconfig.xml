@@ -1,0 +1,45 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+   "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+   
+<beans>
+  <bean id="id1" class="com.emp.Employee">
+  
+    <property name="empId" >
+      <set>
+         <value>S1001</value>
+         <value>S1002</value>
+         <value>S1003</value>    
+         <value>S1004</value> 
+         <value>S1005</value> 
+         <value>S1005</value>     
+      </set>
+     </property>
+      <property name="empName" >
+      <list>
+         <value>Bilal</value>
+         <value>Gaurav</value>
+         <value>Ram</value>    
+         <value>Sashi</value> 
+         <value>Ram</value>     
+      </list>
+     </property>
+       <property name="empRole" >
+      <list>
+         <value>Developer</value>
+         <value>Test Engineer</value>
+         <value>UI Developer</value>    
+         <value>Developer</value> 
+         <value>Manager</value>     
+      </list>
+       </property>
+       <property name="dept" >
+        <list>
+         <value>IT</value>
+         <value>Admin</value>
+         <value>IT</value>
+         <value>HR</value>
+         <value>Accounts</value>
+         </list>
+         </property>
+         </bean>
+         </beans>

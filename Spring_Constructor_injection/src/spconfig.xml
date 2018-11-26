@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+   "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans>
+<!-- autowire functionally is used to inject the data by its dependency object by name 
+make sure it should be same name of the object ref bk -->
+	<bean id="id1" class="com.springbean.Categories" autowire="byName">
+		<property name="name" value="General Book"/>
+	</bean>
+	<bean id="bk" class="com.springbean.Book">
+		<property name="bookname" value="The Kids" />
+		<property name="bookprice" value="300" />
+ 	</bean>
+ </beans>
